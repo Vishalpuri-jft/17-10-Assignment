@@ -20,6 +20,6 @@ Array.prototype.conversion = function(){
     return this;
 }
 
-let arr = [2,5,8];
+let arr = [1,2,3,5];
 
 console.log(arr.conversion());
